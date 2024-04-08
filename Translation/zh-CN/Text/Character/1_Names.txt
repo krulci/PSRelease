@@ -126,7 +126,7 @@
 レイ=怜
 ネア=涅娅
 プレシア=普蕾西亚
-クリア=可莉雅
+クリア=
 share name with button guildhouse
 リリ=莉莉
 ライラエル=莱拉艾尔
